@@ -17,3 +17,62 @@ Visualizations and dashboards
 Key insights & recommendations
 
 Final conclusion
+
+---
+
+# 📂 Dataset Information
+
+File: software_sales_dataset.xlsx
+
+Contains:
+
+Product details
+
+Region-wise sales
+
+Customer information
+
+Sales amount, quantity, and revenue
+
+---
+
+# 🛠️ Tools & Technologies Used
+
+Python (Pandas, Matplotlib, Seaborn)
+
+Power BI / Tableau for dashboards (optional)
+
+Excel for initial data inspection
+
+---
+
+# 📊 Key Analysis Performed
+1. Data Cleaning
+
+Removed duplicates
+
+Handled missing values
+
+Standardized column formats
+
+2. Exploratory Data Analysis (EDA)
+
+Product-wise sales
+
+Region-wise revenue
+
+Top customers
+
+Monthly / quarterly trends
+
+3. Visualizations
+
+Bar charts
+
+Pie/Donut charts
+
+Line trends
+
+KPI cards
+
+---
