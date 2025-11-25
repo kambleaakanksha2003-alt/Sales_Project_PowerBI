@@ -46,9 +46,9 @@ Excel for initial data inspection
 
 ---
 
-## 📊 Key Analysis Performed
+# 📊 Key Analysis Performed
 
-# 🧹1. Data Cleaning
+## 🧹1. Data Cleaning
 
 Removed duplicates
 
