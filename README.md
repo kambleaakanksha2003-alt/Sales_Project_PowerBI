@@ -22,7 +22,7 @@ Final conclusion
 
 # 📂 Dataset Information
 
-File: software_sales_dataset.xlsx
+## File: software_sales_dataset.xlsx
 
 Contains:
 
@@ -56,7 +56,7 @@ Handled missing values
 
 Standardized column formats
 
-2. Exploratory Data Analysis (EDA)
+## 2. Exploratory Data Analysis (EDA)
 
 Product-wise sales
 
@@ -66,7 +66,7 @@ Top customers
 
 Monthly / quarterly trends
 
-3. Visualizations
+## 3. Visualizations
 
 Bar charts
 
